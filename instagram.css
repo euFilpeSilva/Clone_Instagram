@@ -21,7 +21,7 @@ justify-content: center;
   display: flex;
   align-items: center;
   justify-content: start;
-  width: 60%;
+  width: 48%;
   height: 100vh;
 }
 
@@ -47,7 +47,7 @@ justify-content: center;
 
 .group{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   flex-direction: column;
   background-color: aliceblue;
@@ -64,11 +64,15 @@ justify-content: center;
   height: 3rem;
 }
 
-.profile-photo{
+.profile-photo img{
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 50%;
   overflow: hidden;
+  width: 30%;
+  min-height: 30%;
+  margin: 15px auto ;
+
 }
 
