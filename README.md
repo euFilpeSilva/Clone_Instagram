@@ -7,5 +7,4 @@
 
 ## preview
 
-![](img/prints/projeto-instagram.png)
-![](img/prints/imag02.png)
+![](img/prints/imag01.png)
