@@ -1,9 +1,10 @@
 # Clone Instagram
 
-### Os requisitos são:
+### Ultilizei:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* HTML
+* CSS
+
 
 ## preview
 
